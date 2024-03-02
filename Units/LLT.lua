@@ -21,7 +21,7 @@ BuildPic = "filename.png",
     SoundCategory = "Building",
     Upright = 0,
     floater = true,
-	corpse = [[llt_dead]],
+	--corpse = [[]], -- none for now
 --Energy and metal related
     BuildCostEnergy = 1025,
     BuildCostMetal = 205,

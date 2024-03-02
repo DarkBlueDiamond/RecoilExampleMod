@@ -27,7 +27,7 @@ local weaponDef = {
 		   collidefeature		= false,
 		  bounceRebound 		= 0,
 		  energyPerShot			= 200,
-		  --soundStart            = [[Weapons/MGun_emg]],
+		  --soundStart            = [[]],
 		  --soundStartVolume        = 4,	      
 		  --apperance
 		  rgbColor                = [[1 0.6 0.3]],		  	      
